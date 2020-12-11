@@ -1,0 +1,460 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        4.8179240226745605,
+        -0.5058550238609314,
+        5.1779642105102539
+      ],
+      "min": [
+        -4.3092641830444336,
+        -20.09937858581543,
+        -5.7207307815551758
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 786384,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.99997389316558838,
+        0.99994444847106934,
+        0.99993377923965454
+      ],
+      "min": [
+        -0.99997353553771973,
+        -0.99997687339782715,
+        -0.99985474348068237
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.99850398302078247,
+        0.99989199638366699
+      ],
+      "min": [
+        0.00011800000356743112,
+        0.00050500000361353159
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 293934,
+      "max": [
+        65531
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        5.6391119956970215,
+        -0.43776300549507141,
+        5.1779642105102539
+      ],
+      "min": [
+        -4.1917181015014648,
+        -20.028444290161133,
+        -6.4661588668823242
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2359152,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999847412109375,
+        0.99997866153717041,
+        0.9999854564666748
+      ],
+      "min": [
+        -0.99999785423278809,
+        -0.99999475479125977,
+        -0.999980628490448
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 524256,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.99988597631454468,
+        0.99984699487686157
+      ],
+      "min": [
+        0.0001230000052601099,
+        0.00056700001005083323
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1175736,
+      "componentType": 5125,
+      "count": 285123,
+      "max": [
+        65531
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3145536,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        5.621650218963623,
+        -0.46243599057197571,
+        5.1765861511230469
+      ],
+      "min": [
+        -4.2963900566101074,
+        -20.025690078735352,
+        -6.4275221824645996
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3931920,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.99997389316558838,
+        0.99997866153717041,
+        0.99998265504837036
+      ],
+      "min": [
+        -0.99997353553771973,
+        -0.99998766183853149,
+        -0.99996978044509888
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1048512,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.99975001811981201,
+        0.99987697601318359
+      ],
+      "min": [
+        0.00013299999409355223,
+        0.00011200000153621659
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2316228,
+      "componentType": 5125,
+      "count": 222216,
+      "max": [
+        65531
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 4718304,
+      "componentType": 5126,
+      "count": 14592,
+      "max": [
+        6.714900016784668,
+        -0.50133901834487915,
+        5.4994010925292969
+      ],
+      "min": [
+        -4.3053479194641113,
+        -20.044950485229492,
+        -6.3942399024963379
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 4893408,
+      "componentType": 5126,
+      "count": 14592,
+      "max": [
+        0.99993062019348145,
+        0.99958223104476929,
+        0.99986177682876587
+      ],
+      "min": [
+        -0.99998313188552856,
+        -0.999980628490448,
+        -0.99978488683700562
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 14592,
+      "max": [
+        0.99909400939941406,
+        0.9997820258140564
+      ],
+      "min": [
+        0.0002010000025620684,
+        0.0016319999704137444
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 3205092,
+      "componentType": 5125,
+      "count": 22587,
+      "max": [
+        14591
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Geoffrey Marchal (https://sketchfab.com/geoffreymarchal)",
+      "license": "CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)",
+      "source": "https://sketchfab.com/3d-models/gloria-victis-f00f500ac44a46129ae8be3d7d036b6e",
+      "title": "Gloria Victis"
+    },
+    "generator": "Sketchfab-9.26.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 3295440,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1689504,
+      "byteOffset": 3295440,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5068512,
+      "byteOffset": 4984944,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 10053456,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Gloria_victis_-_CleanUp_-_LowPoly_baseColor.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Gloria_victis_-_CleanUp_-_LowPoly",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TEXCOORD_0": 14
+          },
+          "indices": 15,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        -0.88817369937896729,
+        -0.45914274454116821,
+        0.018313966691493988,
+        0,
+        -0.041479956358671188,
+        0.040419202297925949,
+        -0.99832141399383545,
+        0,
+        0.45763179659843445,
+        -0.88744252920150757,
+        -0.054944492876529694,
+        0,
+        2.0663769245147705,
+        -9.7302284240722656,
+        -10.783293724060059,
+        1
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "name": "Gloria victis - CleanUp - LowPoly.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": ""
+    },
+    {
+      "mesh": 1,
+      "name": ""
+    },
+    {
+      "mesh": 2,
+      "name": ""
+    },
+    {
+      "mesh": 3,
+      "name": ""
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
+
